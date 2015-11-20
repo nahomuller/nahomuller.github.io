@@ -7,7 +7,7 @@
   <link href="http://www.example.com/feed.xml" rel="self"/>
   <updated>2013-10-26T03:00:00+03:00</updated>
   <author>
-    <name>Middleman</name>
+    <name>nahomuller</name>
   </author>
   <entry>
     <title>Welcome to My Blog</title>
@@ -16,7 +16,7 @@
     <published>2013-10-26T03:00:00+03:00</published>
     <updated>2015-11-20T13:06:23+03:00</updated>
     <author>
-      <name>Middleman</name>
+      <name>nahomuller</name>
     </author>
     <summary type="html">You’re in! Nice. We’ve put together a little post to introduce you to the Ghost
 editor and get you started. Go ahead and edit this post to get going and learn
