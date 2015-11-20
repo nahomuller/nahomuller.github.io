@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Middleman: Getting Started</title>
-  <subtitle>Posts tagged with Getting Started</subtitle>
+  <title>Middleman: My first post</title>
+  <subtitle>Posts tagged with My first post</subtitle>
   <id>http://www.example.com</id>
   <link href="http://www.example.com"/>
-  <link href="http://www.example.com/tag/getting-started/feed.xml" rel="self"/>
+  <link href="http://www.example.com/tag/my-first-post/feed.xml" rel="self"/>
   <updated>2013-10-26T03:00:00+03:00</updated>
   <author>
     <name>Middleman</name>
   </author>
   <entry>
-    <title>Welcome to Ghost</title>
+    <title>Welcome to My Blog</title>
     <link rel="alternate" href="http://www.example.com/2013/10/26/welcome-to-ghost/"/>
     <id>http://www.example.com/2013/10/26/welcome-to-ghost/</id>
     <published>2013-10-26T03:00:00+03:00</published>
-    <updated>2015-11-19T16:38:56+03:00</updated>
+    <updated>2015-11-20T13:06:23+03:00</updated>
     <author>
       <name>Middleman</name>
     </author>
