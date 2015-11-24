@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>nahomuller</title>
-  <subtitle>Blogging on tech</subtitle>
-  <id>http://www.example.com</id>
-  <link href="http://www.example.com"/>
-  <link href="http://www.example.com/feed.xml" rel="self"/>
+  <subtitle>blogging about tech</subtitle>
+  <id>http://www.nahomuller.github.io</id>
+  <link href="http://www.nahomuller.github.io"/>
+  <link href="http://www.nahomuller.github.io/feed.xml" rel="self"/>
   <updated>2013-10-26T03:00:00+03:00</updated>
   <author>
     <name>nahomuller</name>
   </author>
   <entry>
     <title>Welcome to My Blog</title>
-    <link rel="alternate" href="http://www.example.com/2013/10/26/welcome-to-ghost/"/>
-    <id>http://www.example.com/2013/10/26/welcome-to-ghost/</id>
+    <link rel="alternate" href="http://www.nahomuller.github.io/2013/10/26/welcome-to-ghost/"/>
+    <id>http://www.nahomuller.github.io/2013/10/26/welcome-to-ghost/</id>
     <published>2013-10-26T03:00:00+03:00</published>
     <updated>2015-11-20T13:06:23+03:00</updated>
     <author>
