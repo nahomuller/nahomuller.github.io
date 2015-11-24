@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Middleman</title>
-  <subtitle>Makes developing websites simple.</subtitle>
+  <title>nahomuller</title>
+  <subtitle>Blogging on tech</subtitle>
   <id>http://www.example.com</id>
   <link href="http://www.example.com"/>
   <link href="http://www.example.com/feed.xml" rel="self"/>
